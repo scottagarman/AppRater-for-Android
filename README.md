@@ -1,8 +1,8 @@
 #AppRater for Android
-AppRate for android. Drop in your project and your ready to prompt users to rate your Android Market App.
+A java based AppRate for android. Drop in your project and your ready to prompt users to rate your Android Market App.
 
 ##Install
-Just add AppRater.java to your project.
+To install just add AppRater.java to your project.
 
 ##Docs
 ### displayAsk2Rate(Context ctx, int days, int uses, boolean reminder)
